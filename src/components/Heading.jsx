@@ -1,5 +1,4 @@
 import React from "react";
-import ReactDom from "react-dom";
 
 function Heading() {
   const date = new Date();
